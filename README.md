@@ -12,3 +12,5 @@ the original project for the FE
 	5. 所有项目使用标准的node项目结构（即包含package.json）
 	6. 电脑需要安装Node环境和ruby环境
 	7. Html，css，js分别写到单独的文件
+	8. 项目的提交人请使用自己的中文名字，email使用自己的企业邮箱，方便代码回溯
+	
